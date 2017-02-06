@@ -168,7 +168,7 @@ var findParentByClassName = function(element, targetClass) {
             currentParent = currentParent.parentElement;
         }
         return currentParent;
-    }
+    } 
 };
 
 
